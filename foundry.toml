@@ -14,5 +14,5 @@ remappings = [
     ]
 
 [etherscan]
-sepolia = { key = "CBTKPBT7ZHVZ3QEKT761YUTDAFYDUGEUTE", url = "https://api-sepolia.etherscan.io/api" }
-scroll-sepolia = { key = "YD4SSI87D8CE61VG5STXQAAWVR2WF8DYPY", url = "https://api-sepolia.scrollscan.com/api" }
+sepolia = { key = "V5TS1615MWJ34CEF2UDAZAQZKZCRKXPAKT", url = "https://api-sepolia.etherscan.io/api" }
+scroll-sepolia = { key = "9VH81MPT8RVNKP9NY1G6YYM7H1SW5CPZMK", url = "https://api-sepolia.scrollscan.com/api" }
